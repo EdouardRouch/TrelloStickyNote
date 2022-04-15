@@ -1,4 +1,4 @@
-# Glitch Hosted Sample Sticky Note Trello Power-Up 🚀
+# Glitch Hosted Sticky Note Trello Power-Up 🚀
 
 Hey there 👋
 
